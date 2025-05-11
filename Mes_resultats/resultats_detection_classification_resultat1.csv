@@ -1,0 +1,19 @@
+image,detected_objects,vit_prediction
+m-a-v-2019-16852-diligence-postale-colombier-rochefort-a-bole-devant-l-hotel-du-guillaume-tell-fin-19e-siecle.jpeg,"chair, none, chair, chair, boat, none","horse cart, horse-cart"
+m-a-v-2019-16852-groupe-de-vendangeurs-et-vendangeuses-fin-du-19e-siecle.jpeg,"person, person, person, person, person, person, person, person, none, person, person","book jacket, dust cover, dust jacket, dust wrapper"
+m-a-v-2019-16868-006-anciens-abattoirs-1899.jpeg,"person, person, person, person, person, person",guillotine
+m-a-v-2019-16868-007-escaliers-de-l-eglise-1899.jpeg,"person, person, person, person, fork","maze, labyrinth"
+m-a-v-2019-16868-001-allee-bourbakis-1899.jpeg,"person, person, person, person, person, person, person, person, person",ski
+m-a-v-2019-16868-002-allee-du-port-1899.jpeg,,park bench
+m-a-v-2019-16868-003-gare-regionale-1899.jpeg,"person, person, person",steam locomotive
+m-a-v-2019-16868-004-rue-basse-1899.jpeg,"person, person, person, person, person, person, person, person, person, person, person, none, person",guillotine
+m-a-v-2019-16869-001-auvernier-bas-du-village-greve-apres-l-abaissement-des-eaux-du-lac-octobre-1885.jpeg,,"lakeside, lakeshore"
+m-a-v-2019-16869-002-auvernier-bas-du-village-ruelle-du-petit-port-1885.jpeg,,"church, church building"
+m-a-v-2019-16869-003-auvernier-bas-du-village-environ-1892.jpeg,,"lakeside, lakeshore"
+m-a-v-2019-16873-001-photographie-1.jpeg,person,alp
+m-a-v-2019-16873-002-photographie-2.jpeg,person,steel arch bridge
+m-a-v-2019-16873-003-photographie-3.jpeg,person,"airship, dirigible"
+m-a-v-2019-16873-004-photographie-4.jpeg,,alp
+m-a-v-2019-16868-005-gare-regionale-1899.jpeg,cow,"streetcar, tram, tramcar, trolley, trolley car"
+m-a-v-2019-16868-008-anciens-abattoirs-1899.jpeg,"person, person, person, person","thatch, thatched roof"
+m-a-v-2019-16868-009-la-carriere-1899.jpeg,"bed, bed, bed, bed",ox
