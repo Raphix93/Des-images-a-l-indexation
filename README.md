@@ -2,11 +2,11 @@
 
 Validation du cours - 32M7138 : "Du pixel aux images : introduction au traitement des images 2D"
 
-Raphaël Rollinet (raphael.rollinet@unine.ch) 
-Université de Neuchâtel (mobilité*)
-Master en Patrimoine régional et humanités numériques
-Printemps 2025 - Université de Genève*
-Sous la direction de Adrien Jeanrenaud
+Raphaël Rollinet (raphael.rollinet@unine.ch) <br>
+Université de Neuchâtel (mobilité*) <br>
+Master en Patrimoine régional et humanités numériques <br>
+Printemps 2025 - Université de Genève* <br>
+Sous la direction de Adrien Jeanrenaud <br>
 
 ## Contenu des données de recherche
 Le rendu contient les éléments suivants :
